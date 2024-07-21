@@ -1,5 +1,5 @@
 # 1. number range 1-10 
-# 2. set our number = 4
+# 2. set our number = 4  ----------------> not used ==> We did not set the number, we used random.randint() to generate a random number between 1 and 10
 # while loop(to keep asking guesses)
 # 3.ask the user to guess
 # 4. check if the user's input equal to chosen number
